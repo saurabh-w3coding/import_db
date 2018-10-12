@@ -43,7 +43,8 @@ foreach ($sqlScript as $line)	{
 }
 echo '<div class="success-response sql-import-response">SQL file imported successfully</div>';
 //comment this
-//edit 3	
+//edit 3
+	//edit 4
 ?>
 </body>
 </html>
